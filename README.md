@@ -12,7 +12,7 @@ Proxima AI is an AI-powered resume analyzer and career intelligence platform bui
 - Personalized learning path generation
 - Career intelligence report
 - Saved reports using MongoDB and AWS S3
-- Dashboard to view previous reports
+- Dashboard to view previous saved reports
 - Learning progress tracker
 - Secure authentication using Clerk
 - Delete functionality for analyses and saved reports
